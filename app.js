@@ -12,9 +12,9 @@ itemNames.push(`snakes`);
 itemPrices.push(100);
 inStock.push(false);
 
-lastItemName = itemNames.pop(3)
-lastItemPrice = itemPrices.pop(3)
-lastItemStock = inStock.pop(3)
+lastItemName = itemNames.pop()
+lastItemPrice = itemPrices.pop()
+lastItemStock = inStock.pop()
 
 
 
